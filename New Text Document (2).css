@@ -4,6 +4,8 @@ div {
   border: 15px solid red;
   padding: 50px;
   margin: 20px;
-  color: blue;
+  color: purple;
 }
-
+#header{
+    text-align: center;
+}
